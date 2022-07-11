@@ -1,0 +1,6 @@
+{
+    "trailingComma": "none", //bỏ dấu , ở cuối 
+    "arrowParens": "avoid", // bỏ dấu ngoặc đi khi viết function array
+    "singleQuote": true, //chuyển dấu " thành '
+    "semi": false //bỏ dấu chấm phây ở cuối
+}
